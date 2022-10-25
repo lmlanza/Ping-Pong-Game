@@ -1,8 +1,5 @@
 //Project 3: Pong
 //Lena Lanza 3/13/22
-//Directory ID: lmlanza
-//Unviersity ID: 118448534
-//I pledge on my honor that I have not given or received any unauthorized assistance on this assignment/examination.
 String gamePhase;
 Ball ball;
 Paddle L;
